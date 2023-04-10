@@ -1,0 +1,1007 @@
+┌─[student@client66]─[~]
+└──╼ $ды
+bash: ды: command not found...
+┌─[✗]─[student@client66]─[~]
+└──╼ $ls
+aaa.s
+abc
+anaconda3
+a.out
+arg.c
+argparse
+arg.s
+binascii
+build-mediagallery-AuroraOS_3_2_3_31_base_armv7hl_in_Aurora_Build_Engine-Debug
+build-mediagallery-AuroraOS_3_2_3_31_base_i486_in_Aurora_Build_Engine-Debug
+build-samegame-AuroraOS_3_2_3_31_base_i486_in_Aurora_Build_Engine-Debug
+build-stocqt-AuroraOS_3_2_3_31_base_i486_in_Aurora_Build_Engine-Debug
+CH341SER_LINUX
+codecs
+collections
+conda-bld
+configparser
+ctypes
+cuda-add.cu
+Desktop
+Documents
+Downloads
+eclipse
+eclipse-workspace
+enum
+file
+file.cpp
+fpc-3.0.4
+fp.cfg
+fp.ini
+freeze
+functools
+gef.py
+ghidra_9.1.1_PUBLIC
+hashlib
+hw
+hw.o
+hw.pas
+IdeaProjects
+importlib
+inspect
+intel
+itertools
+json
+jupiter.png
+lab
+libleap.a-1
+main.c
+main.cpp
+matlab-start
+mediagallery
+mediagallery (copy)
+mm.f90
+mov.c
+mov.s
+netbeans-11.2
+notebook
+object.cpp
+os
+PascalABCNET
+patch.o
+patch.S
+pathlib
+pip36
+platform
+prelude
+PycharmProjects
+qqq.c
+qqq.s
+q.s
+re
+result.o
+samegame
+sd
+sh
+shutil
+site
+snap
+socket
+soft
+stocqt
+string
+struct
+subprocess
+sys
+tempfile
+test.c
+time
+uran.o
+VirtualBox VMs
+VScodeProjects
+weka-3-8-4
+wekafiles
+workspace
+Workspace
+┌─[student@client66]─[~]
+└──╼ $cd home-local
+bash: cd: home-local: No such file or directory
+┌─[✗]─[student@client66]─[~]
+└──╼ $cd student
+bash: cd: student: No such file or directory
+┌─[✗]─[student@client66]─[~]
+└──╼ $ls
+aaa.s
+abc
+anaconda3
+a.out
+arg.c
+argparse
+arg.s
+binascii
+build-mediagallery-AuroraOS_3_2_3_31_base_armv7hl_in_Aurora_Build_Engine-Debug
+build-mediagallery-AuroraOS_3_2_3_31_base_i486_in_Aurora_Build_Engine-Debug
+build-samegame-AuroraOS_3_2_3_31_base_i486_in_Aurora_Build_Engine-Debug
+build-stocqt-AuroraOS_3_2_3_31_base_i486_in_Aurora_Build_Engine-Debug
+CH341SER_LINUX
+codecs
+collections
+conda-bld
+configparser
+ctypes
+cuda-add.cu
+Desktop
+Documents
+Downloads
+eclipse
+eclipse-workspace
+enum
+file
+file.cpp
+fpc-3.0.4
+fp.cfg
+fp.ini
+freeze
+functools
+gef.py
+ghidra_9.1.1_PUBLIC
+hashlib
+hw
+hw.o
+hw.pas
+IdeaProjects
+importlib
+inspect
+intel
+itertools
+json
+jupiter.png
+lab
+libleap.a-1
+main.c
+main.cpp
+matlab-start
+mediagallery
+mediagallery (copy)
+mm.f90
+mov.c
+mov.s
+netbeans-11.2
+notebook
+object.cpp
+os
+PascalABCNET
+patch.o
+patch.S
+pathlib
+pip36
+platform
+prelude
+PycharmProjects
+qqq.c
+qqq.s
+q.s
+re
+result.o
+samegame
+sd
+sh
+shutil
+site
+snap
+socket
+soft
+stocqt
+string
+struct
+subprocess
+sys
+tempfile
+test.c
+time
+uran.o
+VirtualBox VMs
+VScodeProjects
+weka-3-8-4
+wekafiles
+workspace
+Workspace
+┌─[student@client66]─[~]
+└──╼ $cd Downloads/home-local
+bash: cd: Downloads/home-local: No such file or directory
+┌─[✗]─[student@client66]─[~]
+└──╼ $cd Downloads/
+┌─[student@client66]─[~/Downloads]
+└──╼ $ls
+clion-2022.3.3  CLion-2022.3.3.tar  victim-arm-2
+┌─[student@client66]─[~/Downloads]
+└──╼ $cat victim-arm-2 
+ELF�@@@�
+             @8	@@@@@@��88@8@@@������A��A48��A��TT@T@DDP�td@@$$Q�tdR�td����A��/lib/ld-linux-aarch64.so.1GNUGNUﴱa|�pm�n;�s�W9 
+                               libc.so.6putsabortscanf__libc_start_mainGLIBC_2.17__gmon_start__���.��ABBBB B�{����L��{���_��{�����G��?� � � � ��@�� ��@�"� ��
+@�B� ��@�b� ��@��� ��{�����S��s���R�)�������������������E)
+     k���T� ������R�SA��{è�_��������@��#����X�XX���������@H@�@���G�@�����_�����!��?��T�!tC�A� ��_� �����!��!�!�C�!�A�!�A����BxC�b�@� ��_� ��{�����
+                     ��`�@9�5���� �R`�9�
+                                          @��{¨�_�����{������������8���7����������C��*����t������
+                                ��ңzs������*s�`?֟�!��T�
+                                                                @���A���B��@��{Ĩ�_��_��{�����{���_�%dKey accepted!;$����<0���h�����zRx
+                                                                       (����`AA��T����
+A��H���F�J�D�������
+                         ���@@@
+�@��A�A���o�@H@�@               P@
+H
+ ��Ax�@�	���o�@���o���o��Ap@p@p@p@p@GCC: (GNU) 7.3.1 20180712 (Red Hat 7.3.1-6)8@T@t@�@�@H@�@�@	�@
+�@
+    P@
+�@A@D��A@@@��A�A�A��A��A(B,B��>T@A
+    P@A�@���A
+H@>�@���>�@}�@����A��A���A�@���AA
+�@`�0B��0B,B��@0B$B(BO ^�@k}�@��
+              P@/usr/lib/gcc/aarch64-redhat-linux/7/../../../../lib64/crt1.o$d$x/usr/lib/gcc/aarch64-redhat-linux/7/../../../../lib64/crti.ocall_weak_fn/usr/lib/gcc/aarch64-redhat-linux/7/../../../../lib64/crtn.ovictim_arm_2.ccrtstuff.cderegister_tm_clones__do_global_dtors_auxcompleted.7761__do_global_dtors_aux_fini_array_entryframe_dummy__frame_dummy_init_array_entryelf-init.oS__FRAME_END____init_array_end_DYNAMIC__init_array_start__GNU_EH_FRAME_HDR_GLOBAL_OFFSET_TABLE___libc_csu_fini__bss_start__scanf@@GLIBC_2.17_edata__bss_end____libc_start_main@@GLIBC_2.17__data_start__gmon_start____dso_handleabort@@GLIBC_2.17_IO_stdin_usedputs@@GLIBC_2.17__libc_csu_init__end____bss_startmain__TMC_END__.symtab.strtab.shstrtab.interp.note.ABI-tag.note.gnu.build-id.gnu.hash.dynsym.dynstr.gnu.version.gnu.version_r.rela.dyn.rela.plt.init.text.fini.rodata.eh_frame_hdr.eh_frame.init_array.fini_array.dynamic.got.got.plt.data.bss.comment8@8#T@T 1t@t$D���o�@�N
+           �@��VH@HH^���o�@�
+                                         k���o�@� z�@��B�@�x�P@P�p@pp��@����@���@��@$�@@@�����������A����A��(B(,B,�0,,X�       	��
+                                                       ┌─[student@client66]─[~/Downloads]
+└──╼ $ls
+clion-2022.3.3      libleap.a-1
+CLion-2022.3.3.tar  victim-arm-2
+┌─[student@client66]─[~/Downloads]
+└──╼ $cat libleap.a-1 
+!<arch>
+/               1368299495  0     0     0       14        `
+Rleaplib.o/          1368299478  1000  100   100644  940       `
+ELF4(
+             	U��1�@�1Á�     u���]�GCC: (SUSE Linux) 4.6.2ospwgzR
+]  �!�B
+ �.symtab.strtab.shstrtab.text.data.bss.comment.comment.SUSE.OPTs.note.GNU-stack.rel.eh_frame4!!XX,0X50qHw\x8X	�
+�f��
+          		�
+                           ��!lib.cleap ┌─[student@client66]─[~/Downloads]
+└──╼ $objdamp -D -M32 libleap.a-1
+bash: objdamp: command not found...
+┌─[✗]─[student@client66]─[~/Downloads]
+└──╼ $objdump -D -M32 libleap.a-1
+In archive libleap.a-1:
+
+lib.o:     file format elf32-i386
+
+
+Disassembly of section .text:
+
+00000000 <leap>:
+   0:	55                   	push   %ebp
+   1:	89 e5                	mov    %esp,%ebp
+   3:	31 c0                	xor    %eax,%eax
+   5:	40                   	inc    %eax
+   6:	8b 5d 08             	mov    0x8(%ebp),%ebx
+   9:	31 c3                	xor    %eax,%ebx
+   b:	81 fb 09 08 00 00    	cmp    $0x809,%ebx
+  11:	75 07                	jne    1a <leap+0x1a>
+  13:	b8 01 00 00 00       	mov    $0x1,%eax
+  18:	eb 05                	jmp    1f <leap+0x1f>
+  1a:	b8 00 00 00 00       	mov    $0x0,%eax
+  1f:	5d                   	pop    %ebp
+  20:	c3                   	ret    
+
+Disassembly of section .comment:
+
+00000000 <.comment>:
+   0:	00 47 43             	add    %al,0x43(%edi)
+   3:	43                   	inc    %ebx
+   4:	3a 20                	cmp    (%eax),%ah
+   6:	28 53 55             	sub    %dl,0x55(%ebx)
+   9:	53                   	push   %ebx
+   a:	45                   	inc    %ebp
+   b:	20 4c 69 6e          	and    %cl,0x6e(%ecx,%ebp,2)
+   f:	75 78                	jne    89 <leap+0x89>
+  11:	29 20                	sub    %esp,(%eax)
+  13:	34 2e                	xor    $0x2e,%al
+  15:	36 2e 32 00          	ss xor %cs:(%eax),%al
+
+Disassembly of section .comment.SUSE.OPTs:
+
+00000000 <.comment.SUSE.OPTs>:
+   0:	6f                   	outsl  %ds:(%esi),(%dx)
+   1:	73 70                	jae    73 <leap+0x73>
+   3:	77 67                	ja     6c <leap+0x6c>
+	...
+
+Disassembly of section .eh_frame:
+
+00000000 <.eh_frame>:
+   0:	14 00                	adc    $0x0,%al
+   2:	00 00                	add    %al,(%eax)
+   4:	00 00                	add    %al,(%eax)
+   6:	00 00                	add    %al,(%eax)
+   8:	01 7a 52             	add    %edi,0x52(%edx)
+   b:	00 01                	add    %al,(%ecx)
+   d:	7c 08                	jl     17 <.eh_frame+0x17>
+   f:	01 1b                	add    %ebx,(%ebx)
+  11:	0c 04                	or     $0x4,%al
+  13:	04 88                	add    $0x88,%al
+  15:	01 00                	add    %eax,(%eax)
+  17:	00 1c 00             	add    %bl,(%eax,%eax,1)
+  1a:	00 00                	add    %al,(%eax)
+  1c:	1c 00                	sbb    $0x0,%al
+  1e:	00 00                	add    %al,(%eax)
+  20:	00 00                	add    %al,(%eax)
+  22:	00 00                	add    %al,(%eax)
+  24:	21 00                	and    %eax,(%eax)
+  26:	00 00                	add    %al,(%eax)
+  28:	00 41 0e             	add    %al,0xe(%ecx)
+  2b:	08 85 02 42 0d 05    	or     %al,0x50d4202(%ebp)
+  31:	5d                   	pop    %ebp
+  32:	0c 04                	or     $0x4,%al
+  34:	04 c5                	add    $0xc5,%al
+	...
+┌─[student@client66]─[~/Downloads]
+└──╼ $git init solutions
+Initialized empty Git repository in /home-local/student/Downloads/solutions/.git/
+┌─[student@client66]─[~/Downloads]
+└──╼ $cd solutions/
+┌─[student@client66]─[~/Downloads/solutions]
+└──╼ $ls -A
+.git
+┌─[student@client66]─[~/Downloads/solutions]
+└──╼ $cd ..
+┌─[student@client66]─[~/Downloads]
+└──╼ $objdump -D -M32 victim-arm-2
+
+victim-arm-2:     file format elf64-little
+
+objdump: can't disassemble for architecture UNKNOWN!
+
+┌─[✗]─[student@client66]─[~/Downloads]
+└──╼ $objdump -D -M64 victim-arm-2
+
+victim-arm-2:     file format elf64-little
+
+objdump: can't disassemble for architecture UNKNOWN!
+
+┌─[✗]─[student@client66]─[~/Downloads]
+└──╼ $objdump -D victim-arm-2
+
+victim-arm-2:     file format elf64-little
+
+objdump: can't disassemble for architecture UNKNOWN!
+
+┌─[✗]─[student@client66]─[~/Downloads]
+└──╼ $objdump victim-arm-2
+Usage: objdump <option(s)> <file(s)>
+ Display information from object <file(s)>.
+ At least one of the following switches must be given:
+  -a, --archive-headers    Display archive header information
+  -f, --file-headers       Display the contents of the overall file header
+  -p, --private-headers    Display object format specific file header contents
+  -P, --private=OPT,OPT... Display object format specific contents
+  -h, --[section-]headers  Display the contents of the section headers
+  -x, --all-headers        Display the contents of all headers
+  -d, --disassemble        Display assembler contents of executable sections
+  -D, --disassemble-all    Display assembler contents of all sections
+      --disassemble=<sym>  Display assembler contents from <sym>
+  -S, --source             Intermix source code with disassembly
+      --source-comment[=<txt>] Prefix lines of source code with <txt>
+  -s, --full-contents      Display the full contents of all sections requested
+  -g, --debugging          Display debug information in object file
+  -e, --debugging-tags     Display debug information using ctags style
+  -G, --stabs              Display (in raw form) any STABS info in the file
+  -W[lLiaprmfFsoORtUuTgAckK] or
+  --dwarf[=rawline,=decodedline,=info,=abbrev,=pubnames,=aranges,=macro,=frames,
+          =frames-interp,=str,=str-offsets,=loc,=Ranges,=pubtypes,
+          =gdb_index,=trace_info,=trace_abbrev,=trace_aranges,
+          =addr,=cu_index,=links,=follow-links]
+                           Display DWARF info in the file
+  --ctf=SECTION            Display CTF info from SECTION
+  -t, --syms               Display the contents of the symbol table(s)
+  -T, --dynamic-syms       Display the contents of the dynamic symbol table
+  -r, --reloc              Display the relocation entries in the file
+  -R, --dynamic-reloc      Display the dynamic relocation entries in the file
+  @<file>                  Read options from <file>
+  -U[d|l|i|x|e|h]          Controls the display of UTF-8 unicode characters
+  --unicode=[default|locale|invalid|hex|escape|highlight]
+  -v, --version            Display this program's version number
+  -i, --info               List object formats and architectures supported
+  -H, --help               Display this information
+┌─[✗]─[student@client66]─[~/Downloads]
+└──╼ $objdump -D -M64 victim-arm-1
+objdump: 'victim-arm-1': No such file
+┌─[✗]─[student@client66]─[~/Downloads]
+└──╼ $objdump -D -M64 
+clion-2022.3.3/     CLion-2022.3.3.tar  libleap.a-1         solutions/          victim_arm_1        victim-arm-2        
+┌─[✗]─[student@client66]─[~/Downloads]
+└──╼ $objdump -D -M64 
+clion-2022.3.3/     CLion-2022.3.3.tar  libleap.a-1         solutions/          victim_arm_1        victim-arm-2        
+┌─[✗]─[student@client66]─[~/Downloads]
+└──╼ $objdump -D -M64 
+clion-2022.3.3/     CLion-2022.3.3.tar  libleap.a-1         solutions/          victim_arm_1        victim-arm-2        
+┌─[✗]─[student@client66]─[~/Downloads]
+└──╼ $objdump -D -M64 victim_arm_1 
+
+victim_arm_1:     file format elf64-little
+
+objdump: can't disassemble for architecture UNKNOWN!
+
+┌─[✗]─[student@client66]─[~/Downloads]
+└──╼ $objdump -D -M32 victim_arm_1 
+
+victim_arm_1:     file format elf64-little
+
+objdump: can't disassemble for architecture UNKNOWN!
+
+┌─[✗]─[student@client66]─[~/Downloads]
+└──╼ $objdump -D -M32 victim_arm_1.o 
+objdump: 'victim_arm_1.o': No such file
+┌─[✗]─[student@client66]─[~/Downloads]
+└──╼ $cat victim_arm_1.o
+cat: victim_arm_1.o: No such file or directory
+┌─[✗]─[student@client66]─[~/Downloads]
+└──╼ $cat victim_arm_1
+ELF�@@@�
+             @8	@@@@@@��88@8@@@������A��A48��A��TT@T@DDP�td@@$$Q�tdR�td����A��/lib/ld-linux-aarch64.so.1GNUGNU�jL�t��*�`��>|��b�&'9 
+                                                                                                                                                                                                 libc.so.6putsabortscanf__libc_start_mainGLIBC_2.17__gmon_start__���.��ABBBB B�{����L��{���_��{�����G��?� � � � ��@�� ��@�"� ��
+@�B� ��@�b� ��@��� ��{�����S��s�T��R�)�������������������E)
+                                                                                     k���T� ������R�SA��{è�_��������@��#����X�XX���������@H@�@���G�@�����_�����!��?��T�!tC�A� ��_� �����!��!�!�C�!�A�!�A����BxC�b�@� ��_� ��{�����
+                       ��`�@9�5���� �R`�9�
+                                            @��{¨�_�����{������������8���7����������C��*����t������
+                                                                                                                  ��ңzs������*s�`?֟�!��T�
+                                                                                                                                                  @���A���B��@��{Ĩ�_��_��{�����{���_�%dKey accepted!;$����<0���h�����zRx
+                                                                                                                                                                                                                                         (��A��T����
+A��H���F�J�D�������
+                         ���@@@
+�@��A�A���o�@H@�@               P@
+H
+ ��Ax�@�	���o�@���o���o��Ap@p@p@p@p@GCC: (GNU) 7.3.1 20180712 (Red Hat 7.3.1-6)8@T@t@�@�@H@�@�@	�@
+�@
+    P@
+�@A@D��A@@@��A�A�A��A��A(B,B��>T@A
+    P@A�@���A
+H@>�@���>�@}�@����A��A���A�@���AA
+�@`�0B��0B,B��@0B$B(BO ^�@k}�@��
+              P@/usr/lib/gcc/aarch64-redhat-linux/7/../../../../lib64/crt1.o$d$x/usr/lib/gcc/aarch64-redhat-linux/7/../../../../lib64/crti.ocall_weak_fn/usr/lib/gcc/aarch64-redhat-linux/7/../../../../lib64/crtn.ovictim_arm_1.ccrtstuff.cderegister_tm_clones__do_global_dtors_auxcompleted.7761__do_global_dtors_aux_fini_array_entryframe_dummy__frame_dummy_init_array_entryelf-init.oS__FRAME_END____init_array_end_DYNAMIC__init_array_start__GNU_EH_FRAME_HDR_GLOBAL_OFFSET_TABLE___libc_csu_fini__bss_start__scanf@@GLIBC_2.17_edata__bss_end____libc_start_main@@GLIBC_2.17__data_start__gmon_start____dso_handleabort@@GLIBC_2.17_IO_stdin_usedputs@@GLIBC_2.17__libc_csu_init__end____bss_startmain__TMC_END__.symtab.strtab.shstrtab.interp.note.ABI-tag.note.gnu.build-id.gnu.hash.dynsym.dynstr.gnu.version.gnu.version_r.rela.dyn.rela.plt.init.text.fini.rodata.eh_frame_hdr.eh_frame.init_array.fini_array.dynamic.got.got.plt.data.bss.comment8@8#T@T 1t@t$D���o�@�N
+                   �@��VH@HH^���o�@�
+                                                 k���o�@� z�@��B�@�x�P@P�p@pp��@����@���@��@$�@@@�����������A����A��(B(,B,�0,,X�       	��
+                                                                                                                                                                                                                               ┌─[student@client66]─[~/Downloads]
+└──╼ $
+┌─[student@client66]─[~/Downloads]
+└──╼ $
+┌─[student@client66]─[~/Downloads]
+└──╼ $
+┌─[student@client66]─[~/Downloads]
+└──╼ $
+
+┌─[student@client66]─[~/Downloads]
+└──╼ $
+┌─[student@client66]─[~/Downloads]
+└──╼ $
+┌─[student@client66]─[~/Downloads]
+└──╼ $
+┌─[student@client66]─[~/Downloads]
+└──╼ $
+┌─[student@client66]─[~/Downloads]
+└──╼ $
+┌─[student@client66]─[~/Downloads]
+└──╼ $
+┌─[student@client66]─[~/Downloads]
+└──╼ $
+┌─[student@client66]─[~/Downloads]
+└──╼ $
+┌─[student@client66]─[~/Downloads]
+└──╼ $
+┌─[student@client66]─[~/Downloads]
+└──╼ $objdump -D -M32 victim_arm_1^C
+┌─[✗]─[student@client66]─[~/Downloads]
+└──╼ $objdump -D -M32 patch.o
+objdump: 'patch.o': No such file
+┌─[✗]─[student@client66]─[~/Downloads]
+└──╼ $objdump -D -M32 victim-arm-2 > leap.s
+objdump: can't disassemble for architecture UNKNOWN!
+
+┌─[✗]─[student@client66]─[~/Downloads]
+└──╼ $objdump -D -M32 
+clion-2022.3.3/     CLion-2022.3.3.tar  leap.s              libleap.a-1         solutions/          victim_arm_1        victim-arm-2        
+┌─[✗]─[student@client66]─[~/Downloads]
+└──╼ $objdump -D -M32 libleap.a-1 
+In archive libleap.a-1:
+
+lib.o:     file format elf32-i386
+
+
+Disassembly of section .text:
+
+00000000 <leap>:
+   0:	55                   	push   %ebp
+   1:	89 e5                	mov    %esp,%ebp
+   3:	31 c0                	xor    %eax,%eax
+   5:	40                   	inc    %eax
+   6:	8b 5d 08             	mov    0x8(%ebp),%ebx
+   9:	31 c3                	xor    %eax,%ebx
+   b:	81 fb 09 08 00 00    	cmp    $0x809,%ebx
+  11:	75 07                	jne    1a <leap+0x1a>
+  13:	b8 01 00 00 00       	mov    $0x1,%eax
+  18:	eb 05                	jmp    1f <leap+0x1f>
+  1a:	b8 00 00 00 00       	mov    $0x0,%eax
+  1f:	5d                   	pop    %ebp
+  20:	c3                   	ret    
+
+Disassembly of section .comment:
+
+00000000 <.comment>:
+   0:	00 47 43             	add    %al,0x43(%edi)
+   3:	43                   	inc    %ebx
+   4:	3a 20                	cmp    (%eax),%ah
+   6:	28 53 55             	sub    %dl,0x55(%ebx)
+   9:	53                   	push   %ebx
+   a:	45                   	inc    %ebp
+   b:	20 4c 69 6e          	and    %cl,0x6e(%ecx,%ebp,2)
+   f:	75 78                	jne    89 <leap+0x89>
+  11:	29 20                	sub    %esp,(%eax)
+  13:	34 2e                	xor    $0x2e,%al
+  15:	36 2e 32 00          	ss xor %cs:(%eax),%al
+
+Disassembly of section .comment.SUSE.OPTs:
+
+00000000 <.comment.SUSE.OPTs>:
+   0:	6f                   	outsl  %ds:(%esi),(%dx)
+   1:	73 70                	jae    73 <leap+0x73>
+   3:	77 67                	ja     6c <leap+0x6c>
+	...
+
+Disassembly of section .eh_frame:
+
+00000000 <.eh_frame>:
+   0:	14 00                	adc    $0x0,%al
+   2:	00 00                	add    %al,(%eax)
+   4:	00 00                	add    %al,(%eax)
+   6:	00 00                	add    %al,(%eax)
+   8:	01 7a 52             	add    %edi,0x52(%edx)
+   b:	00 01                	add    %al,(%ecx)
+   d:	7c 08                	jl     17 <.eh_frame+0x17>
+   f:	01 1b                	add    %ebx,(%ebx)
+  11:	0c 04                	or     $0x4,%al
+  13:	04 88                	add    $0x88,%al
+  15:	01 00                	add    %eax,(%eax)
+  17:	00 1c 00             	add    %bl,(%eax,%eax,1)
+  1a:	00 00                	add    %al,(%eax)
+  1c:	1c 00                	sbb    $0x0,%al
+  1e:	00 00                	add    %al,(%eax)
+  20:	00 00                	add    %al,(%eax)
+  22:	00 00                	add    %al,(%eax)
+  24:	21 00                	and    %eax,(%eax)
+  26:	00 00                	add    %al,(%eax)
+  28:	00 41 0e             	add    %al,0xe(%ecx)
+  2b:	08 85 02 42 0d 05    	or     %al,0x50d4202(%ebp)
+  31:	5d                   	pop    %ebp
+  32:	0c 04                	or     $0x4,%al
+  34:	04 c5                	add    $0xc5,%al
+	...
+┌─[student@client66]─[~/Downloads]
+└──╼ $objdump -D -M32 libleap.a-1 > leap.s
+┌─[student@client66]─[~/Downloads]
+└──╼ $vim leap.s
+┌─[student@client66]─[~/Downloads]
+└──╼ $objdump -D -M32 
+clion-2022.3.3/     CLion-2022.3.3.tar  leap.s              libleap.a-1         solutions/          uran.o              victim_arm_1        victim-arm-2        
+┌─[student@client66]─[~/Downloads]
+└──╼ $objdump -D -M32 
+clion-2022.3.3/     CLion-2022.3.3.tar  leap.s              libleap.a-1         solutions/          uran.o              victim_arm_1        victim-arm-2        
+┌─[student@client66]─[~/Downloads]
+└──╼ $objdump -D -M32 uran.o > u.s
+┌─[student@client66]─[~/Downloads]
+└──╼ $vim u.s
+┌─[student@client66]─[~/Downloads]
+└──╼ $ivm new.s
+bash: ivm: command not found...
+Similar command is: 'vim'
+┌─[✗]─[student@client66]─[~/Downloads]
+└──╼ $vim new.s
+┌─[student@client66]─[~/Downloads]
+└──╼ $gcc new.s -S
+┌─[student@client66]─[~/Downloads]
+└──╼ $objdump new.o -S
+objdump: 'new.o': No such file
+┌─[✗]─[student@client66]─[~/Downloads]
+└──╼ $objdump new.s -c
+objdump: invalid option -- 'c'
+Usage: objdump <option(s)> <file(s)>
+ Display information from object <file(s)>.
+ At least one of the following switches must be given:
+  -a, --archive-headers    Display archive header information
+  -f, --file-headers       Display the contents of the overall file header
+  -p, --private-headers    Display object format specific file header contents
+  -P, --private=OPT,OPT... Display object format specific contents
+  -h, --[section-]headers  Display the contents of the section headers
+  -x, --all-headers        Display the contents of all headers
+  -d, --disassemble        Display assembler contents of executable sections
+  -D, --disassemble-all    Display assembler contents of all sections
+      --disassemble=<sym>  Display assembler contents from <sym>
+  -S, --source             Intermix source code with disassembly
+      --source-comment[=<txt>] Prefix lines of source code with <txt>
+  -s, --full-contents      Display the full contents of all sections requested
+  -g, --debugging          Display debug information in object file
+  -e, --debugging-tags     Display debug information using ctags style
+  -G, --stabs              Display (in raw form) any STABS info in the file
+  -W[lLiaprmfFsoORtUuTgAckK] or
+  --dwarf[=rawline,=decodedline,=info,=abbrev,=pubnames,=aranges,=macro,=frames,
+          =frames-interp,=str,=str-offsets,=loc,=Ranges,=pubtypes,
+          =gdb_index,=trace_info,=trace_abbrev,=trace_aranges,
+          =addr,=cu_index,=links,=follow-links]
+                           Display DWARF info in the file
+  --ctf=SECTION            Display CTF info from SECTION
+  -t, --syms               Display the contents of the symbol table(s)
+  -T, --dynamic-syms       Display the contents of the dynamic symbol table
+  -r, --reloc              Display the relocation entries in the file
+  -R, --dynamic-reloc      Display the dynamic relocation entries in the file
+  @<file>                  Read options from <file>
+  -U[d|l|i|x|e|h]          Controls the display of UTF-8 unicode characters
+  --unicode=[default|locale|invalid|hex|escape|highlight]
+  -v, --version            Display this program's version number
+  -i, --info               List object formats and architectures supported
+  -H, --help               Display this information
+
+ The following switches are optional:
+  -b, --target=BFDNAME           Specify the target object format as BFDNAME
+  -m, --architecture=MACHINE     Specify the target architecture as MACHINE
+  -j, --section=NAME             Only display information for section NAME
+  -M, --disassembler-options=OPT Pass text OPT on to the disassembler
+  -EB --endian=big               Assume big endian format when disassembling
+  -EL --endian=little            Assume little endian format when disassembling
+      --file-start-context       Include context from start of file (with -S)
+  -I, --include=DIR              Add DIR to search list for source files
+  -l, --line-numbers             Include line numbers and filenames in output
+  -F, --file-offsets             Include file offsets when displaying information
+  -C, --demangle[=STYLE]         Decode mangled/processed symbol names
+                                  The STYLE, if specified, can be `auto', `gnu',
+                                  `lucid', `arm', `hp', `edg', `gnu-v3', `java'
+                                  or `gnat'
+      --recurse-limit            Enable a limit on recursion whilst demangling.  [Default]
+      --no-recurse-limit         Disable a limit on recursion whilst demangling
+  -w, --wide                     Format output for more than 80 columns
+  -z, --disassemble-zeroes       Do not skip blocks of zeroes when disassembling
+      --start-address=ADDR       Only process data whose address is >= ADDR
+      --stop-address=ADDR        Only process data whose address is < ADDR
+      --no-addresses             Do not print address alongside disassembly
+      --prefix-addresses         Print complete address alongside disassembly
+      --[no-]show-raw-insn       Display hex alongside symbolic disassembly
+      --insn-width=WIDTH         Display WIDTH bytes on a single line for -d
+      --adjust-vma=OFFSET        Add OFFSET to all displayed section addresses
+      --special-syms             Include special symbols in symbol dumps
+      --inlines                  Print all inlines for source line (with -l)
+      --prefix=PREFIX            Add PREFIX to absolute paths for -S
+      --prefix-strip=LEVEL       Strip initial directory names for -S
+      --dwarf-depth=N        Do not display DIEs at depth N or greater
+      --dwarf-start=N        Display DIEs starting with N, at the same depth
+                             or deeper
+      --dwarf-check          Make additional dwarf internal consistency checks.
+      --ctf-parent=SECTION     Use SECTION as the CTF parent
+      --visualize-jumps          Visualize jumps by drawing ASCII art lines
+      --visualize-jumps=color    Use colors in the ASCII art
+      --visualize-jumps=extended-color   Use extended 8-bit color codes
+      --visualize-jumps=off      Disable jump visualization
+
+objdump: supported targets: elf64-x86-64 elf32-i386 elf32-iamcu elf32-x86-64 pei-i386 pe-x86-64 pei-x86-64 elf64-l1om elf64-k1om elf64-little elf64-big elf32-little elf32-big pe-bigobj-x86-64 pe-i386 elf64-bpfle elf64-bpfbe srec symbolsrec verilog tekhex binary ihex plugin
+objdump: supported architectures: i386 i386:x86-64 i386:x64-32 i8086 i386:intel i386:x86-64:intel i386:x64-32:intel iamcu iamcu:intel l1om l1om:intel k1om k1om:intel bpf xbpf
+
+The following i386/x86-64 specific disassembler options are supported for use
+with the -M switch (multiple options should be separated by commas):
+  x86-64      Disassemble in 64bit mode
+  i386        Disassemble in 32bit mode
+  i8086       Disassemble in 16bit mode
+  att         Display instruction in AT&T syntax
+  intel       Display instruction in Intel syntax
+  att-mnemonic
+              Display instruction in AT&T mnemonic
+  intel-mnemonic
+              Display instruction in Intel mnemonic
+  addr64      Assume 64bit address size
+  addr32      Assume 32bit address size
+  addr16      Assume 16bit address size
+  data32      Assume 32bit data size
+  data16      Assume 16bit data size
+  suffix      Always display instruction suffix in AT&T syntax
+  amd64       Display instruction in AMD64 ISA
+  intel64     Display instruction in Intel64 ISA
+┌─[✗]─[student@client66]─[~/Downloads]
+└──╼ $gcc new.s -c
+new.s: Assembler messages:
+new.s:2: Error: no such instruction: `fmov'
+┌─[✗]─[student@client66]─[~/Downloads]
+└──╼ $objdump new.o -S
+objdump: 'new.o': No such file
+┌─[✗]─[student@client66]─[~/Downloads]
+└──╼ $objdump new.o -S
+objdump: 'new.o': No such file
+┌─[✗]─[student@client66]─[~/Downloads]
+└──╼ $vim new.s
+┌─[student@client66]─[~/Downloads]
+└──╼ $objdump new.o -S
+objdump: 'new.o': No such file
+┌─[✗]─[student@client66]─[~/Downloads]
+└──╼ $gcc new.s -S
+┌─[student@client66]─[~/Downloads]
+└──╼ $gcc new.s -c
+┌─[student@client66]─[~/Downloads]
+└──╼ $objdump new.o -S
+
+new.o:     file format elf64-x86-64
+
+
+Disassembly of section .text:
+
+0000000000000000 <.text>:
+   0:	d9 eb                	fldpi  
+   2:	de c9                	fmulp  %st,%st(1)
+┌─[student@client66]─[~/Downloads]
+└──╼ $ls
+clion-2022.3.3  CLion-2022.3.3.tar  leap.s  libleap.a-1  new.o  new.s  solutions  uran.o  u.s  victim_arm_1  victim-arm-2
+┌─[student@client66]─[~/Downloads]
+└──╼ $cd ..
+┌─[student@client66]─[~]
+└──╼ $ls
+aaa.s                                                                           collections        fp.cfg               itertools            notebook         re          sys
+abc                                                                             conda-bld          fp.ini               json                 object.cpp       result.o    tempfile
+anaconda3                                                                       configparser       freeze               jupiter.png          os               samegame    test.c
+a.out                                                                           ctypes             functools            lab                  PascalABCNET     sd          time
+arg.c                                                                           cuda-add.cu        gef.py               libleap.a-1          patch.o          sh          uran.o
+argparse                                                                        Desktop            ghidra_9.1.1_PUBLIC  main.c               patch.S          shutil      VirtualBox VMs
+arg.s                                                                           Documents          hashlib              main.cpp             pathlib          site        VScodeProjects
+binascii                                                                        Downloads          hw                   matlab-start         pip36            snap        weka-3-8-4
+build-mediagallery-AuroraOS_3_2_3_31_base_armv7hl_in_Aurora_Build_Engine-Debug  eclipse            hw.o                 mediagallery         platform         socket      wekafiles
+build-mediagallery-AuroraOS_3_2_3_31_base_i486_in_Aurora_Build_Engine-Debug     eclipse-workspace  hw.pas               mediagallery (copy)  prelude          soft        workspace
+build-samegame-AuroraOS_3_2_3_31_base_i486_in_Aurora_Build_Engine-Debug         enum               IdeaProjects         mm.f90               PycharmProjects  stocqt      Workspace
+build-stocqt-AuroraOS_3_2_3_31_base_i486_in_Aurora_Build_Engine-Debug           file               importlib            mov.c                qqq.c            string
+CH341SER_LINUX                                                                  file.cpp           inspect              mov.s                qqq.s            struct
+codecs                                                                          fpc-3.0.4          intel                netbeans-11.2        q.s              subprocess
+┌─[student@client66]─[~]
+└──╼ $cd Desktop/
+┌─[student@client66]─[~/Desktop]
+└──╼ $ls
+Apache NetBeans-11.2.desktop      discord.desktop                                    kicad.desktop                            Pycharm Community.desktop  wing-101.desktop
+AuroraOS-SDK-qtcreator.desktop    Eclipse IDE for Java Developers - 2021-12.desktop  kotlin.desktop                           python-3.desktop           zoom.desktop
+C#.desktop                        emacs.desktop                                      lazarus.desktop                          Qt Creator.desktop         Документация  по C.desktop
+C++ Developers - 2021-12.desktop  Free Pascal.desktop                                mate-terminal.desktop                    spyder.desktop             Документация  по python2.desktop
+clion.desktop                     geany.desktop                                      Mathematica 12 (another copy).1.desktop  sublime_text.desktop       Информатика инструктаж ТБ.mp4
+codeblocks.desktop                idle3.desktop                                      MatLab.desktop                           Turtle.desktop             ЛАБЫ ПО ВЫЧМАТАМ.desktop
+code.desktop                      java.desktop                                       matrix_for_Lobanov                       virtualbox.desktop         ПАСКАЛЬ.desktop
+com.obsproject.Studio.desktop     jetbrains-idea-ce-1.desktop                        mc.desktop                               vlc.desktop
+cppreference.desktop              JUPYTER.desktop                                    org.shotcut.Shotcut.desktop              WEKA.desktop
+Discord                           k3b.desktop                                        pascal.desktop                           wing-101-8.desktop
+┌─[student@client66]─[~/Desktop]
+└──╼ $cd ..
+┌─[student@client66]─[~]
+└──╼ $cd Desktop/
+┌─[student@client66]─[~/Desktop]
+└──╼ $cd ..
+┌─[student@client66]─[~]
+└──╼ $cd Downloads/
+┌─[student@client66]─[~/Downloads]
+└──╼ $clone https://github.com/IsaenkovDanil/Isaenkov.git
+bash: clone: command not found...
+┌─[✗]─[student@client66]─[~/Downloads]
+└──╼ $git clone https://github.com/IsaenkovDanil/Isaenkov.git
+Cloning into 'Isaenkov'...
+remote: Enumerating objects: 15, done.
+remote: Counting objects: 100% (15/15), done.
+remote: Compressing objects: 100% (10/10), done.
+remote: Total 15 (delta 2), reused 11 (delta 0), pack-reused 0
+Unpacking objects: 100% (15/15), done.
+┌─[student@client66]─[~/Downloads]
+└──╼ $
+┌─[student@client66]─[~/Downloads]
+└──╼ $^C
+┌─[✗]─[student@client66]─[~/Downloads]
+└──╼ $^C
+┌─[✗]─[student@client66]─[~/Downloads]
+└──╼ $cd Isaenkov/
+┌─[student@client66]─[~/Downloads/Isaenkov]
+└──╼ $vim 123.txt 
+
+[1]+  Stopped                 vim 123.txt
+┌─[✗]─[student@client66]─[~/Downloads/Isaenkov]
+└──╼ $cd ..
+┌─[student@client66]─[~/Downloads]
+└──╼ $hexdump uran.o | grep "d8"
+0000130 8955 81e5 14ec 0000 d900 0845 45d9 d808
+┌─[student@client66]─[~/Downloads]
+└──╼ $hexdump uran.o | grep "45d9"
+0000130 8955 81e5 14ec 0000 d900 0845 45d9 d808
+0000140 d9c1 fc5d 458b 89fc ec45 45d9 c9ec 00c3
+┌─[student@client66]─[~/Downloads]
+└──╼ $hexdump uran.o | grep 
+Usage: grep [OPTION]... PATTERN [FILE]...
+Try 'grep --help' for more information.
+┌─[✗]─[student@client66]─[~/Downloads]
+└──╼ $hexdump u
+uran.o  u.s     
+┌─[✗]─[student@client66]─[~/Downloads]
+└──╼ $hexdump uran.o > t.txt
+┌─[student@client66]─[~/Downloads]
+└──╼ $cat t.txt 
+0000000 457f 464c 0101 0001 0000 0000 0000 0000
+0000010 0001 0003 0001 0000 0000 0000 0000 0000
+0000020 0040 0000 0000 0000 0034 0000 0000 0028
+0000030 0006 0003 0000 0000 0000 0000 0000 0000
+0000040 0000 0000 0000 0000 0000 0000 0000 0000
+*
+0000060 0000 0000 0000 0000 0001 0000 0001 0000
+0000070 0006 0000 0000 0000 0130 0000 001f 0000
+0000080 0000 0000 0000 0000 0010 0000 0000 0000
+0000090 0007 0000 0001 0000 0000 0000 0000 0000
+00000a0 0150 0000 001f 0000 0000 0000 0000 0000
+00000b0 0001 0000 0000 0000 0010 0000 0003 0000
+00000c0 0000 0000 0000 0000 0170 0000 002a 0000
+00000d0 0000 0000 0000 0000 0001 0000 0000 0000
+00000e0 001a 0000 0002 0000 0000 0000 0000 0000
+00000f0 01a0 0000 0050 0000 0005 0000 0004 0000
+0000100 0004 0000 0010 0000 0022 0000 0003 0000
+0000110 0000 0000 0000 0000 01f0 0000 0016 0000
+0000120 0000 0000 0000 0000 0001 0000 0000 0000
+0000130 8955 81e5 14ec 0000 d900 0845 45d9 d808
+0000140 d9c1 fc5d 458b 89fc ec45 45d9 c9ec 00c3
+0000150 5400 6568 4e20 7465 6977 6564 4120 7373
+0000160 6d65 6c62 7265 3020 392e 2e38 3933 0000
+0000170 2e00 6574 7478 2e00 6f63 6d6d 6e65 0074
+0000180 732e 7368 7274 6174 0062 732e 6d79 6174
+0000190 0062 732e 7274 6174 0062 0000 0000 0000
+00001a0 0000 0000 0000 0000 0000 0000 0000 0000
+00001b0 0001 0000 0000 0000 0000 0000 0004 fff1
+00001c0 0000 0000 0000 0000 0000 0000 0003 fff1
+00001d0 0000 0000 0000 0000 0000 0000 0003 0001
+00001e0 000b 0000 0000 0000 0000 0000 0010 0001
+00001f0 7300 6570 6465 612e 6d73 6100 6363 6c65
+0000200 7265 7461 0065 0000 0000 0000 0000 0000
+0000210
+┌─[student@client66]─[~/Downloads]
+└──╼ $subl 
+1233/               libleap.a-1         uran.o
+clion-2022.3.3/     new.o               u.s
+CLion-2022.3.3.tar  new.s               victim_arm_1
+Isaenkov/           solutions/          victim-arm-2
+leap.s              t.txt               
+┌─[student@client66]─[~/Downloads]
+└──╼ $subl t.txt 
+┌─[student@client66]─[~/Downloads]
+└──╼ $xxd t.txt 
+0000000: 3030 3030 3030 3020 3435 3766 2034 3634  0000000 457f 464
+0000010: 6320 3031 3031 2030 3030 3120 3030 3030  c 0101 0001 0000
+0000020: 2030 3030 3020 3030 3030 2030 3030 300a   0000 0000 0000.
+0000030: 3030 3030 3031 3020 3030 3031 2030 3030  0000010 0001 000
+0000040: 3320 3030 3031 2030 3030 3020 3030 3030  3 0001 0000 0000
+0000050: 2030 3030 3020 3030 3030 2030 3030 300a   0000 0000 0000.
+0000060: 3030 3030 3032 3020 3030 3430 2030 3030  0000020 0040 000
+0000070: 3020 3030 3030 2030 3030 3020 3030 3334  0 0000 0000 0034
+0000080: 2030 3030 3020 3030 3030 2030 3032 380a   0000 0000 0028.
+0000090: 3030 3030 3033 3020 3030 3036 2030 3030  0000030 0006 000
+00000a0: 3320 3030 3030 2030 3030 3020 3030 3030  3 0000 0000 0000
+00000b0: 2030 3030 3020 3030 3030 2030 3030 300a   0000 0000 0000.
+00000c0: 3030 3030 3034 3020 3030 3030 2030 3030  0000040 0000 000
+00000d0: 3020 3030 3030 2030 3030 3020 3030 3030  0 0000 0000 0000
+00000e0: 2030 3030 3020 3030 3030 2030 3030 300a   0000 0000 0000.
+00000f0: 2a0a 3030 3030 3036 3020 3030 3030 2030  *.0000060 0000 0
+0000100: 3030 3020 3030 3030 2030 3030 3020 3030  000 0000 0000 00
+0000110: 3031 2030 3030 3020 3030 3031 2030 3030  01 0000 0001 000
+0000120: 300a 3030 3030 3037 3020 3030 3036 2030  0.0000070 0006 0
+0000130: 3030 3020 3030 3030 2030 3030 3020 3031  000 0000 0000 01
+0000140: 3330 2030 3030 3020 3030 3166 2030 3030  30 0000 001f 000
+0000150: 300a 3030 3030 3038 3020 3030 3030 2030  0.0000080 0000 0
+0000160: 3030 3020 3030 3030 2030 3030 3020 3030  000 0000 0000 00
+0000170: 3130 2030 3030 3020 3030 3030 2030 3030  10 0000 0000 000
+0000180: 300a 3030 3030 3039 3020 3030 3037 2030  0.0000090 0007 0
+0000190: 3030 3020 3030 3031 2030 3030 3020 3030  000 0001 0000 00
+00001a0: 3030 2030 3030 3020 3030 3030 2030 3030  00 0000 0000 000
+00001b0: 300a 3030 3030 3061 3020 3031 3530 2030  0.00000a0 0150 0
+00001c0: 3030 3020 3030 3166 2030 3030 3020 3030  000 001f 0000 00
+00001d0: 3030 2030 3030 3020 3030 3030 2030 3030  00 0000 0000 000
+00001e0: 300a 3030 3030 3062 3020 3030 3031 2030  0.00000b0 0001 0
+00001f0: 3030 3020 3030 3030 2030 3030 3020 3030  000 0000 0000 00
+0000200: 3130 2030 3030 3020 3030 3033 2030 3030  10 0000 0003 000
+0000210: 300a 3030 3030 3063 3020 3030 3030 2030  0.00000c0 0000 0
+0000220: 3030 3020 3030 3030 2030 3030 3020 3031  000 0000 0000 01
+0000230: 3730 2030 3030 3020 3030 3261 2030 3030  70 0000 002a 000
+0000240: 300a 3030 3030 3064 3020 3030 3030 2030  0.00000d0 0000 0
+0000250: 3030 3020 3030 3030 2030 3030 3020 3030  000 0000 0000 00
+0000260: 3031 2030 3030 3020 3030 3030 2030 3030  01 0000 0000 000
+0000270: 300a 3030 3030 3065 3020 3030 3161 2030  0.00000e0 001a 0
+0000280: 3030 3020 3030 3032 2030 3030 3020 3030  000 0002 0000 00
+0000290: 3030 2030 3030 3020 3030 3030 2030 3030  00 0000 0000 000
+00002a0: 300a 3030 3030 3066 3020 3031 6130 2030  0.00000f0 01a0 0
+00002b0: 3030 3020 3030 3530 2030 3030 3020 3030  000 0050 0000 00
+00002c0: 3035 2030 3030 3020 3030 3034 2030 3030  05 0000 0004 000
+00002d0: 300a 3030 3030 3130 3020 3030 3034 2030  0.0000100 0004 0
+00002e0: 3030 3020 3030 3130 2030 3030 3020 3030  000 0010 0000 00
+00002f0: 3232 2030 3030 3020 3030 3033 2030 3030  22 0000 0003 000
+0000300: 300a 3030 3030 3131 3020 3030 3030 2030  0.0000110 0000 0
+0000310: 3030 3020 3030 3030 2030 3030 3020 3031  000 0000 0000 01
+0000320: 6630 2030 3030 3020 3030 3136 2030 3030  f0 0000 0016 000
+0000330: 300a 3030 3030 3132 3020 3030 3030 2030  0.0000120 0000 0
+0000340: 3030 3020 3030 3030 2030 3030 3020 3030  000 0000 0000 00
+0000350: 3031 2030 3030 3020 3030 3030 2030 3030  01 0000 0000 000
+0000360: 300a 3030 3030 3133 3020 3839 3535 2038  0.0000130 8955 8
+0000370: 3165 3520 3134 6563 2030 3030 3020 6439  1e5 14ec 0000 d9
+0000380: 3030 2030 3834 3520 3435 6439 2064 3830  00 0845 45d9 d80
+0000390: 380a 3030 3030 3134 3020 6439 6331 2066  8.0000140 d9c1 f
+00003a0: 6335 6420 3435 3862 2038 3966 6320 6563  c5d 458b 89fc ec
+00003b0: 3435 2034 3564 3920 6339 6563 2030 3063  45 45d9 c9ec 00c
+00003c0: 330a 3030 3030 3135 3020 3534 3030 2036  3.0000150 5400 6
+00003d0: 3536 3820 3465 3230 2037 3436 3520 3639  568 4e20 7465 69
+00003e0: 3737 2036 3536 3420 3431 3230 2037 3337  77 6564 4120 737
+00003f0: 330a 3030 3030 3136 3020 3664 3635 2036  3.0000160 6d65 6
+0000400: 6336 3220 3732 3635 2033 3032 3020 3339  c62 7265 3020 39
+0000410: 3265 2032 6533 3820 3339 3333 2030 3030  2e 2e38 3933 000
+0000420: 300a 3030 3030 3137 3020 3265 3030 2036  0.0000170 2e00 6
+0000430: 3537 3420 3734 3738 2032 6530 3020 3666  574 7478 2e00 6f
+0000440: 3633 2036 6436 6420 3665 3635 2030 3037  63 6d6d 6e65 007
+0000450: 340a 3030 3030 3138 3020 3733 3265 2037  4.0000180 732e 7
+0000460: 3336 3820 3732 3734 2036 3137 3420 3030  368 7274 6174 00
+0000470: 3632 2037 3332 6520 3664 3739 2036 3137  62 732e 6d79 617
+0000480: 340a 3030 3030 3139 3020 3030 3632 2037  4.0000190 0062 7
+0000490: 3332 6520 3732 3734 2036 3137 3420 3030  32e 7274 6174 00
+00004a0: 3632 2030 3030 3020 3030 3030 2030 3030  62 0000 0000 000
+00004b0: 300a 3030 3030 3161 3020 3030 3030 2030  0.00001a0 0000 0
+00004c0: 3030 3020 3030 3030 2030 3030 3020 3030  000 0000 0000 00
+00004d0: 3030 2030 3030 3020 3030 3030 2030 3030  00 0000 0000 000
+00004e0: 300a 3030 3030 3162 3020 3030 3031 2030  0.00001b0 0001 0
+00004f0: 3030 3020 3030 3030 2030 3030 3020 3030  000 0000 0000 00
+0000500: 3030 2030 3030 3020 3030 3034 2066 6666  00 0000 0004 fff
+0000510: 310a 3030 3030 3163 3020 3030 3030 2030  1.00001c0 0000 0
+0000520: 3030 3020 3030 3030 2030 3030 3020 3030  000 0000 0000 00
+0000530: 3030 2030 3030 3020 3030 3033 2066 6666  00 0000 0003 fff
+0000540: 310a 3030 3030 3164 3020 3030 3030 2030  1.00001d0 0000 0
+0000550: 3030 3020 3030 3030 2030 3030 3020 3030  000 0000 0000 00
+0000560: 3030 2030 3030 3020 3030 3033 2030 3030  00 0000 0003 000
+0000570: 310a 3030 3030 3165 3020 3030 3062 2030  1.00001e0 000b 0
+0000580: 3030 3020 3030 3030 2030 3030 3020 3030  000 0000 0000 00
+0000590: 3030 2030 3030 3020 3030 3130 2030 3030  00 0000 0010 000
+00005a0: 310a 3030 3030 3166 3020 3733 3030 2036  1.00001f0 7300 6
+00005b0: 3537 3020 3634 3635 2036 3132 6520 3664  570 6465 612e 6d
+00005c0: 3733 2036 3130 3020 3633 3633 2036 6336  73 6100 6363 6c6
+00005d0: 350a 3030 3030 3230 3020 3732 3635 2037  5.0000200 7265 7
+00005e0: 3436 3120 3030 3635 2030 3030 3020 3030  461 0065 0000 00
+00005f0: 3030 2030 3030 3020 3030 3030 2030 3030  00 0000 0000 000
+0000600: 300a 3030 3030 3231 300a                 0.0000210.
+┌─[student@client66]─[~/Downloads]
+└──╼ $xxd 
+
+
+
+
+^C
+┌─[✗]─[student@client66]─[~/Downloads]
+└──╼ $xxd --help
+Usage:
+       xxd [options] [infile [outfile]]
+    or
+       xxd -r [-s [-]offset] [-c cols] [-ps] [infile [outfile]]
+Options:
+    -a          toggle autoskip: A single '*' replaces nul-lines. Default off.
+    -b          binary digit dump (incompatible with -ps,-i,-r). Default hex.
+    -c cols     format <cols> octets per line. Default 16 (-i: 12, -ps: 30).
+    -E          show characters in EBCDIC. Default ASCII.
+    -g          number of octets per group in normal output. Default 2.
+    -h          print this summary.
+    -i          output in C include file style.
+    -l len      stop after <len> octets.
+    -ps         output in postscript plain hexdump style.
+    -r          reverse operation: convert (or patch) hexdump into binary.
+    -r -s off   revert with <off> added to file positions found in hexdump.
+    -s [+][-]seek  start at <seek> bytes abs. (or +: rel.) infile offset.
+    -u          use upper case hex letters.
+    -v          show version: "xxd V1.10 27oct98 by Juergen Weigert".
+┌─[✗]─[student@client66]─[~/Downloads]
+└──╼ $xxd t.txt -l 1000
+Usage:
+       xxd [options] [infile [outfile]]
+    or
+       xxd -r [-s [-]offset] [-c cols] [-ps] [infile [outfile]]
+Options:
+    -a          toggle autoskip: A single '*' replaces nul-lines. Default off.
+    -b          binary digit dump (incompatible with -ps,-i,-r). Default hex.
+    -c cols     format <cols> octets per line. Default 16 (-i: 12, -ps: 30).
+    -E          show characters in EBCDIC. Default ASCII.
+    -g          number of octets per group in normal output. Default 2.
+    -h          print this summary.
+    -i          output in C include file style.
+    -l len      stop after <len> octets.
+    -ps         output in postscript plain hexdump style.
+    -r          reverse operation: convert (or patch) hexdump into binary.
+    -r -s off   revert with <off> added to file positions found in hexdump.
+    -s [+][-]seek  start at <seek> bytes abs. (or +: rel.) infile offset.
+    -u          use upper case hex letters.
+    -v          show version: "xxd V1.10 27oct98 by Juergen Weigert".
+┌─[✗]─[student@client66]─[~/Downloads]
+└──╼ $xxd t.txt -l 
+┌─[student@client66]─[~/Downloads]
+└──╼ $
